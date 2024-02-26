@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    font-size: 65.5%;
+}
+body{
+    background: linear-gradient(287.56deg, #70ebe1 2%, #A1C4FD 50%);
+}
+main{
+    background: white;
+    box-shadow: 0px .2rem .4rem rgb(0, 0, 0, 0.1);
+    border-radius: .6rem ;
+    padding: 4.8rem 6.4rem 6.4rem ;
+    width: min(42.8rem, 90%);
+    margin: 0 auto;
+}

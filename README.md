@@ -1,1 +1,1 @@
-# jogo-da-adivinha-o
+# jogo-da-adivinhação
