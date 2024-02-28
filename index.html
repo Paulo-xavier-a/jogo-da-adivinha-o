@@ -11,16 +11,16 @@
 </head>
 <body>
     <main>
-        <div class="screen1 hide">
+        <div class="screen1 ">
 
             <h1>Jogo da advinhação</h1>
             <p>Adivinhe um numero de 0 a 10</p>
             <form action="">
-                <input type="text">
-                <button>Tentar</button>
+                <input id="number" type="text">
+                <button onclick="handleClick(event)">Tentar</button>
             </form>
         </div>
-        <div class="screen2">
+        <div  class="screen2 hide">
             <h2>Acertou em x vezes</h2>
             <button> Jogar novamente</button>
         </div>
